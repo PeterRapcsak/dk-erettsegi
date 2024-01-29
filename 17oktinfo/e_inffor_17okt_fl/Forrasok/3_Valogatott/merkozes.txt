@@ -1,0 +1,910 @@
+id	datum	ido	varos	stadion	nezoszam	ellenfel	lott	kapott	tetmeccs
+1	1902.10.12		Bécs		500	Ausztria	0	5	
+2	1903.04.05		Budapest	Csömöri út	750	Csehország	2	1	
+3	1903.06.11	16:30:00	Budapest	Margitsziget	700	Ausztria	3	2	
+4	1903.10.11		Bécs		600	Ausztria	2	4	
+5	1904.06.02		Budapest	Csömöri út	800	Ausztria	3	0	
+6	1904.10.09		Bécs		2000	Ausztria	4	5	
+7	1905.04.09	16:00:00	Budapest	Csömöri út	6500	Ausztria	0	0	
+8	1906.04.01		Budapest	Csömöri út	5000	Csehország	1	1	
+9	1906.10.07		Prága		6000	Csehország	4	4	
+10	1906.11.04	15:00:00	Budapest	Csömöri út	3000	Ausztria	3	1	
+11	1907.04.07	16:00:00	Budapest	Millenáris	1000	Csehország	5	2	
+12	1907.05.05		Bécs		2000	Ausztria	1	3	
+13	1907.10.06		Prága		4000	Csehország	3	5	
+14	1907.11.03	14:30:00	Budapest	Millenáris	7000	Ausztria	4	1	
+15	1908.04.05	16:00:00	Budapest	Millenáris	9000	Csehország	5	2	
+16	1908.05.03		Bécs		3500	Ausztria	0	4	
+17	1908.06.10	18:00:00	Budapest	Millenáris	7000	Anglia	0	7	
+18	1908.11.01	16:00:00	Budapest	Millenáris	8000	Ausztria	5	3	
+19	1909.04.04	16:00:00	Budapest	Millenáris	9000	Németország	3	3	
+20	1909.05.02		Bécs		1000	Ausztria	4	3	
+21	1909.05.29	17:30:00	Budapest	Millenáris	10000	Anglia	2	4	
+22	1909.05.30	17:30:00	Budapest	Millenáris	11000	Ausztria	1	1	
+23	1909.05.31	17:30:00	Budapest	Millenáris	11000	Anglia	2	8	
+24	1909.11.07	14:30:00	Budapest	Millenáris	10000	Ausztria	2	2	
+25	1910.05.01		Bécs		7000	Ausztria	1	2	
+26	1910.05.26	17:00:00	Budapest	Millenáris	12000	Olaszország	6	1	
+27	1910.11.06	14:30:00	Budapest	Millenáris	11000	Ausztria	3	0	
+28	1911.01.01		Párizs		2032	Franciaország	3	0	
+29	1911.01.06	14:30:00	Milánó		4500	Olaszország	1	0	
+30	1911.01.08		Zürich		3000	Svájc	0	2	
+31	1911.05.07		Bécs		7000	Ausztria	1	3	
+32	1911.10.29	15:30:00	Budapest	Millenáris	15000	Svájc	9	0	
+33	1911.11.05	14:30:00	Budapest	Üllői út	25000	Ausztria	2	0	
+34	1911.12.17		München		8000	Németország	4	1	
+35	1912.04.14	16:00:00	Budapest	Üllői út	25000	Németország	4	4	
+36	1912.05.05		Bécs		15000	Ausztria	1	1	
+37	1912.06.20		Göteborg		2500	Svédország	2	2	
+38	1912.06.23		Kristiania		4000	Norvégia	6	0	
+39	1912.06.30		Stockholm		8000	Anglia	0	7	OJ
+40	1912.07.03		Stockholm		2000	Németország	3	1	OJ
+41	1912.07.05		Stockholm		5000	Ausztria	3	0	OJ
+42	1912.07.12		Moszkva		3000	Oroszország	9	0	
+43	1912.07.14		Moszkva		3000	Oroszország	12	0	
+44	1912.11.03	14:30:00	Budapest	Üllői út	30000	Ausztria	4	0	
+45	1913.04.27		Bécs		20000	Ausztria	4	1	
+46	1913.05.18	17:30:00	Budapest	Üllői út	21000	Svédország	2	0	
+47	1913.10.26	14:30:00	Budapest	Hungária út	30000	Ausztria	4	3	
+48	1914.05.03		Bécs		22000	Ausztria	0	2	
+49	1914.05.31	17:00:00	Budapest	Üllői út	14000	Franciaország	5	1	
+50	1914.06.19		Stockholm		6000	Svédország	5	1	
+51	1914.06.21		Stockholm		5000	Svédország	1	1	
+52	1914.10.04	15:00:00	Budapest	Üllői út	12000	Ausztria	2	2	
+53	1914.11.08		Bécs		5000	Ausztria	2	1	
+54	1915.05.02	16:30:00	Budapest	Hungária út	16000	Ausztria	2	5	
+55	1915.05.30		Bécs		8000	Ausztria	2	1	
+56	1915.10.03		Bécs		1200	Ausztria	2	4	
+57	1915.11.07	14:15:00	Budapest	Üllői út	12000	Ausztria	6	2	
+58	1916.05.07		Bécs		8000	Ausztria	1	3	
+59	1916.06.04	18:00:00	Budapest	Hungária út	16000	Ausztria	2	1	
+60	1916.10.01	14:30:00	Budapest	Üllői út	16000	Ausztria	2	3	
+61	1916.11.05		Bécs		9000	Ausztria	3	3	
+62	1917.05.06		Bécs		4000	Ausztria	1	1	
+63	1917.06.03	16:30:00	Budapest	Hungária út	22000	Ausztria	6	2	
+64	1917.07.15		Bécs		12000	Ausztria	4	1	
+65	1917.10.07	15:00:00	Budapest	Üllői út	20000	Ausztria	2	1	
+66	1917.11.04		Bécs		15000	Ausztria	2	1	
+67	1918.04.14	15:30:00	Budapest	Hungária út	23000	Ausztria	2	0	
+68	1918.05.12	17:00:00	Budapest	Hungária út	16000	Svájc	2	1	
+69	1918.06.02		Bécs		20000	Ausztria	2	0	
+70	1918.10.06		Bécs		15000	Ausztria	3	0	
+71	1919.04.06	17:00:00	Budapest	Üllői út	40000	Ausztria	2	1	
+72	1919.10.05		Bécs		22000	Ausztria	0	2	
+73	1919.11.09	15:00:00	Budapest	Hungária út	27000	Ausztria	3	2	
+74	1920.05.02		Bécs		20000	Ausztria	2	2	
+75	1920.10.24		Berlin		55000	Németország	0	1	
+76	1920.11.07	14:30:00	Budapest	Hungária út	30000	Ausztria	1	2	
+77	1921.04.24		Bécs		50000	Ausztria	1	4	
+78	1921.06.05	17:30:00	Budapest	Hungária út	30000	Németország	3	0	
+79	1921.11.06	14:30:00	Budapest	Üllői út	35000	Svédország	4	2	
+80	1921.12.18	13:30:00	Budapest	Hungária út	8000	Lengyelország	1	0	
+81	1922.04.30	16:00:00	Budapest	Hungária út	40000	Ausztria	1	1	
+82	1922.05.14		Krakkó		20000	Lengyelország	3	0	
+83	1922.06.15	17:30:00	Budapest	Üllői út	15000	Svájc	1	1	
+84	1922.07.02		Bochum		40000	Németország	0	0	
+85	1922.07.09		Stockholm		15000	Svédország	1	1	
+86	1922.07.13		Helsinki		5000	Finnország	5	1	
+87	1922.09.24		Bécs		65000	Ausztria	2	2	
+88	1922.11.26	14:00:00	Budapest	Üllői út	30000	Ausztria	1	2	
+89	1923.03.04	15:00:00	Genova		20000	Olaszország	0	0	
+90	1923.03.11		Lausanne		10000	Svájc	6	1	
+91	1923.05.06		Bécs		50000	Ausztria	0	1	
+92	1923.08.19	17:00:00	Budapest	Üllői út	16000	Finnország	3	1	
+93	1923.09.23	15:00:00	Budapest	Hungária út	35000	Ausztria	2	0	
+94	1923.10.28	14:45:00	Budapest	Üllői út	35000	Svédország	2	1	
+95	1924.04.06	16:15:00	Budapest	Hungária út	40000	Olaszország	7	1	
+96	1924.05.04	16:00:00	Budapest	Hungária út	40000	Ausztria	2	2	
+97	1924.05.18		Zürich		18000	Svájc	2	4	
+98	1924.05.26		Párizs		7000	Lengyelország	5	0	OJ
+99	1924.05.29		Párizs		8000	Egyiptom	0	3	OJ
+100	1924.06.04		Le Havre		5000	Franciaország	1	0	
+101	1924.08.31	16:30:00	Budapest	Üllői út	25000	Lengyelország	4	0	
+102	1924.09.14		Bécs		45000	Ausztria	1	2	
+103	1924.09.21	16:00:00	Budapest	Üllői út	35000	Németország	4	1	
+104	1925.01.18		Milánó		18000	Olaszország	2	1	
+105	1925.03.25	16:00:00	Budapest	Hungária út	32000	Svájc	5	0	
+106	1925.05.05		Bécs		50000	Ausztria	1	3	
+107	1925.05.21	17:30:00	Budapest	Hungária út	20000	Belgium	1	3	
+108	1925.07.12		Stockholm		18000	Svédország	2	6	
+109	1925.07.19		Krakkó	Wisla-pálya	8000	Lengyelország	2	0	
+110	1925.09.20	15:30:00	Budapest	Üllői út	33000	Ausztria	1	1	
+111	1925.10.04	15:30:00	Budapest	Üllői út	40000	Spanyolország	0	1	
+112	1925.10.11		Prága		30000	Csehszlovákia	0	2	
+113	1925.11.08	14:30:00	Budapest	Üllői út	20000	Olaszország	1	1	
+114	1926.02.14		Brüsszel		28000	Belgium	2	0	
+115	1926.05.02	17:00:00	Budapest	Hungária út	35000	Ausztria	0	3	
+116	1926.06.06	17:00:00	Budapest	Üllői út	30000	Csehszlovákia	2	1	
+117	1926.08.20	17:00:00	Budapest	Hungária út	9000	Lengyelország	4	1	
+118	1926.09.19		Bécs		40000	Ausztria	3	2	
+119	1926.11.14	14:15:00	Budapest	Üllői út	35000	Svédország	3	1	
+120	1926.12.19		Vigo		15000	Spanyolország	2	4	
+121	1926.12.26		Porto		10000	Portugália	3	3	
+122	1927.04.10		Bécs		42000	Ausztria	0	6	
+123	1927.04.10	16:30:00	Budapest	Üllői út	12000	Jugoszlávia	3	0	
+124	1927.04.24		Prága		22000	Csehszlovákia	1	4	
+125	1927.06.12	18:00:00	Budapest	Üllői út	20000	Franciaország	13	1	
+126	1927.09.25	15:30:00	Budapest	Üllői út	38000	Ausztria	5	3	
+127	1927.09.25		Zágráb		6000	Jugoszlávia	1	5	
+128	1927.10.09	15:00:00	Budapest	Hungária út	40000	Csehszlovákia	1	2	
+129	1928.03.25	15:00:00	Róma		25000	Olaszország	3	4	
+130	1928.03.25	16:00:00	Budapest	Üllői út	10000	Jugoszlávia	2	1	
+131	1928.04.22	16:30:00	Budapest	Üllői út	38000	Csehszlovákia	2	0	
+132	1928.05.06	17:00:00	Budapest	Hungária út	33000	Ausztria	5	5	
+133	1928.10.07		Bécs		40000	Ausztria	1	5	
+134	1928.11.01	14:30:00	Budapest	Üllői út	20000	Svájc	3	1	
+135	1929.02.24		Párizs		20000	Franciaország	0	3	
+136	1929.04.14		Bern		19000	Svájc	5	4	
+137	1929.05.05		Bécs		52000	Ausztria	2	2	
+138	1929.09.08		Prága		28000	Csehszlovákia	1	1	
+139	1929.10.06	15:30:00	Budapest	Hungária út	32000	Ausztria	2	1	
+140	1930.04.13		Bázel		20000	Svájc	2	2	
+141	1930.05.01		Prága		30000	Csehszlovákia	1	1	
+142	1930.05.11	17:00:00	Budapest	Üllői út	40000	Olaszország	0	5	
+143	1930.06.01	17:30:00	Budapest	Hungária út	20000	Ausztria	2	1	
+144	1930.06.08	17:30:00	Budapest	Üllői út	14000	Hollandia	6	2	
+145	1930.09.21		Bécs		40000	Ausztria	3	2	
+146	1930.09.28		Drezda		42000	Németország	3	5	
+147	1930.10.26	14:00:00	Budapest	Hungária út	12000	Csehszlovákia	1	1	
+148	1931.03.22		Prága		30000	Csehszlovákia	3	3	
+149	1931.04.12	16:15:00	Budapest	Hungária út	25000	Svájc	6	2	
+150	1931.05.03		Bécs		46000	Ausztria	0	0	
+151	1931.05.21		Belgrád		14000	Jugoszlávia	2	3	
+152	1931.09.20	14:00:00	Budapest	Üllői út	20000	Csehszlovákia	3	0	
+153	1931.10.04	15:00:00	Budapest	Hungária út	32000	Ausztria	2	2	
+154	1931.11.08	14:00:00	Budapest	Üllői út	13000	Svédország	3	1	
+155	1931.12.13	14:30:00	Torino		35000	Olaszország	2	3	
+156	1932.02.19		Kairó		6500	Egyiptom	0	0	
+157	1932.03.20		Prága		27000	Csehszlovákia	3	1	
+158	1932.04.24		Bécs		62000	Ausztria	2	8	
+159	1932.05.08	16:30:00	Budapest	Hungária út	40000	Olaszország	1	1	
+160	1932.06.19		Bern		20000	Svájc	1	3	
+161	1932.09.18	16:00:00	Budapest	Üllői út	25000	Csehszlovákia	2	1	
+162	1932.10.02	15:30:00	Budapest	Üllői út	28000	Ausztria	2	3	
+163	1932.10.30	14:00:00	Budapest	Hungária út	15000	Németország	2	1	
+164	1932.11.27	14:30:00	Milánó		32000	Olaszország	2	4	
+165	1933.01.29		Lisszabon		15000	Portugália	0	1	
+166	1933.03.05		Amszterdam		30000	Hollandia	2	1	
+167	1933.03.19	16:00:00	Budapest	Hungária út	25000	Csehszlovákia	2	0	
+168	1933.04.30	17:00:00	Budapest	Üllői út	40000	Ausztria	1	1	
+169	1933.07.02		Stockholm		20000	Svédország	2	5	
+170	1933.09.17	16:00:00	Budapest	Hungária út	17000	Svájc	3	0	
+171	1933.10.01		Bécs		60000	Ausztria	2	2	
+172	1933.10.22	15:00:00	Budapest	Üllői út	38000	Olaszország	0	1	
+173	1934.01.14		Frankfurt		40000	Németország	1	3	
+174	1934.03.25		Szófia		15000	Bulgária	4	1	VB-sel-1934
+175	1934.04.15		Bécs		60000	Ausztria	2	5	
+176	1934.04.29		Prága		35000	Csehszlovákia	2	2	
+177	1934.04.29	17:00:00	Budapest	Hungária út	10000	Bulgária	4	1	VB-sel-1934
+178	1934.05.10	17:30:00	Budapest	Üllői út	35000	Anglia	2	1	
+179	1934.05.27		Nápoly		8000	Egyiptom	4	2	VB-1934
+180	1934.05.31		Bologna		15000	Ausztria	1	2	VB-1934
+181	1934.10.07	15:00:00	Budapest	Hungária út	33000	Ausztria	3	1	
+182	1934.12.09		Milánó		42000	Olaszország	2	4	
+183	1934.12.16		Dublin		25000	Írország	4	2	
+184	1935.04.14		Zürich		30000	Svájc	2	6	
+185	1935.05.12	17:00:00	Budapest	Üllői út	32000	Ausztria	6	3	
+186	1935.05.19		Párizs		25000	Franciaország	0	2	
+187	1935.09.22	16:00:00	Budapest	Hungária út	22000	Csehszlovákia	1	0	
+188	1935.10.06		Bécs		40000	Ausztria	4	4	
+189	1935.11.10	14:00:00	Budapest	Üllői út	16000	Svájc	6	1	
+190	1935.11.24	14:30:00	Milánó		45000	Olaszország	2	2	
+191	1936.03.15	15:30:00	Budapest	Hungária út	33000	Németország	3	2	
+192	1936.04.05		Bécs		46000	Ausztria	5	3	
+193	1936.05.03	16:30:00	Budapest	Hungária út	15000	Írország	3	3	
+194	1936.05.31	17:30:00	Budapest	Hungária út	32000	Olaszország	1	2	
+195	1936.09.27	15:30:00	Budapest	Üllői út	32000	Ausztria	5	3	
+196	1936.10.04		Bukarest		35000	Románia	2	1	
+197	1936.10.18		Prága		20000	Csehszlovákia	2	5	
+198	1936.12.02		London		36000	Anglia	2	6	
+199	1936.12.06		Dublin		30000	Írország	3	2	
+200	1937.04.11		Bázel		22000	Svájc	5	1	
+201	1937.04.25	15:00:00	Torino		35000	Olaszország	0	2	
+202	1937.05.09	17:00:00	Budapest	Hungária út	16000	Jugoszlávia	1	1	
+203	1937.05.23	17:30:00	Budapest	Üllői út	17000	Ausztria	2	2	
+204	1937.09.19	15:30:00	Budapest	Hungária út	27000	Csehszlovákia	8	3	
+205	1937.10.10		Bécs	Práter-stadion	46800	Ausztria	2	1	
+206	1937.11.14	14:00:00	Budapest	Üllői út	10000	Svájc	2	0	
+207	1938.01.09		Lisszabon		10000	Portugália	0	4	
+208	1938.01.16		Luxembourg		10000	Luxemburg	6	0	
+209	1938.03.20		Nürnberg		53000	Németország	1	1	
+210	1938.03.25	15:30:00	Budapest	Hungária út	14000	Görögország	11	1	VB-sel-1938
+211	1938.06.05		Reims		10000	Holland-India	6	0	VB-1938
+212	1938.06.12		Lille		20000	Svájc	2	0	VB-1938
+213	1938.06.16		Párizs		28000	Svédország	5	1	VB-1938
+214	1938.06.19	15:00:00	Párizs		65000	Olaszország	2	4	VB-1938
+215	1938.12.07		Glasgow		20000	Skócia	1	3	
+216	1939.02.26		Rotterdam		35000	Hollandia	2	3	
+217	1939.03.16		Párizs	Parc Des Princes	30000	Franciaország	2	2	
+218	1939.03.19		Cork		12000	Írország	2	2	
+219	1939.04.02		Zürich		22000	Svájc	1	3	
+220	1939.05.18	17:15:00	Budapest	Hungária út	15000	Írország	2	2	
+221	1939.06.08	17:00:00	Budapest	Üllői út	36000	Olaszország	1	3	
+222	1939.08.27		Varsó		21000	Lengyelország	2	4	
+223	1939.09.24		Budapest	Üllői út	25000	Németország	5	1	
+224	1939.10.22		Bukarest		32000	Románia	1	1	
+225	1939.11.12		Belgrád		20000	Jugoszlávia	2	0	
+226	1940.03.31	15:30:00	Budapest	Üllői út	32000	Svájc	3	0	
+227	1940.04.07		Berlin		102000	Németország	2	2	
+228	1940.05.02	17:00:00	Budapest	Üllői út	15000	Horvátország	1	0	
+229	1940.05.19	17:30:00	Budapest	Üllői út	20000	Románia	2	0	
+230	1940.09.29	15:15:00	Budapest	Üllői út	20000	Jugoszlávia	0	0	
+231	1940.10.06	15:00:00	Budapest	Üllői út	36000	Németország	2	2	
+232	1940.12.01	14:00:00	Genova		35000	Olaszország	1	1	
+233	1940.12.08		Zágráb		8000	Horvátország	1	1	
+234	1941.03.23		Belgrád		20000	Jugoszlávia	1	1	
+235	1941.04.06		Köln		65000	Németország	0	7	
+236	1941.11.16		Zürich		24000	Svájc	2	1	
+237	1942.05.03	17:00:00	Budapest	Üllői út	40000	Németország	3	5	
+238	1942.06.14	18:00:00	Budapest	Üllői út	28000	Horvátország	1	1	
+239	1942.11.01	14:30:00	Budapest	Üllői út	35000	Svájc	3	0	
+240	1943.05.16		Genf		25000	Svájc	3	1	
+241	1943.06.06		Szófia		15000	Bulgária	4	2	
+242	1943.09.12		Stockholm		38000	Svédország	3	2	
+243	1943.09.15		Helsinki		10000	Finnország	3	0	
+244	1943.11.07	14:15:00	Budapest	Üllői út	39000	Svédország	2	7	
+245	1945.08.19	17:00:00	Budapest	Üllői út	40000	Ausztria	2	0	
+246	1945.08.20	17:00:00	Budapest	Üllői út	20000	Ausztria	5	2	
+247	1945.09.30	15:30:00	Budapest	Üllői út	35000	Románia	7	2	
+248	1946.04.14		Bécs		60000	Ausztria	2	3	
+249	1946.10.06	15:30:00	Budapest	Üllői út	35000	Ausztria	2	0	
+250	1946.10.31		Esch		10000	Luxemburg	7	2	
+251	1947.05.04	17:00:00	Budapest	Üllői út	37000	Ausztria	5	2	
+252	1947.05.11	16:00:00	Torino		70000	Olaszország	2	3	
+253	1947.06.29		Belgrád		35000	Jugoszlávia	3	2	
+254	1947.08.17	17:00:00	Budapest	Üllői út	20000	Bulgária	9	0	
+255	1947.08.20	18:00:00	Budapest	Üllői út	15000	Albánia	3	0	
+256	1947.09.14		Bécs		60000	Ausztria	3	4	
+257	1947.10.12		Bukarest		35000	Románia	3	0	
+258	1948.04.21	17:30:00	Budapest	Üllői út	32000	Svájc	7	4	
+259	1948.05.02		Bécs		65000	Ausztria	2	3	
+260	1948.05.23		Budapest	Üllői út	37000	Csehszlovákia	2	1	
+261	1948.05.23		Tirana		35000	Albánia	0	0	
+262	1948.06.06	17:00:00	Budapest	Megyeri út	45000	Románia	9	0	
+263	1948.09.19		Varsó		40000	Lengyelország	6	2	
+264	1948.10.03	15:00:00	Budapest	Megyeri út	30000	Ausztria	2	1	
+265	1948.10.24		Bukarest		48000	Románia	5	1	
+266	1948.11.07		Szófia		38000	Bulgária	0	1	
+267	1949.04.10		Prága		55000	Csehszlovákia	2	5	
+268	1949.05.08	17:30:00	Budapest	Megyeri út	50000	Ausztria	6	1	
+269	1949.06.12	18:00:00	Budapest	Megyeri út	47000	Olaszország	1	1	
+270	1949.06.19		Stockholm		38000	Svédország	2	2	
+271	1949.07.10		Debrecen	Nagyerdei-stadion	28900	Lengyelország	8	2	
+272	1949.10.16		Bécs	Práter-stadion	63800	Ausztria	4	3	
+273	1949.10.30		Budapest	Megyeri út	35300	Bulgária	5	1	
+274	1949.11.20	13:30:00	Budapest	Megyeri út	52330	Svédország	5	0	
+275	1950.04.30		Budapest	Megyeri út	47000	Csehszlovákia	5	0	
+276	1950.05.14		Bécs		65000	Ausztria	3	5	
+277	1950.06.04		Varsó		60000	Lengyelország	5	2	
+278	1950.09.24	15:30:00	Budapest	Megyeri út	38000	Albánia	12	0	
+279	1950.10.29		Budapest	Megyeri út	45000	Ausztria	4	3	
+280	1950.11.12		Szófia		35000	Bulgária	1	1	
+281	1951.05.27	17:00:00	Budapest	Megyeri út	42000	Lengyelország	6	0	
+282	1951.10.14		Vitkovice		45000	Csehszlovákia	2	1	
+283	1951.11.18	13:30:00	Budapest	Megyeri út	40000	Finnország	8	0	
+284	1952.05.18	17:00:00	Budapest	Üllői út	38000	NDK	5	0	
+285	1952.05.24		Moszkva		80000	Szovjetunió	1	1	
+286	1952.05.27		Moszkva		80000	Szovjetunió	1	2	
+287	1952.06.15		Varsó		50000	Lengyelország	5	1	
+288	1952.06.22		Helsinki		25000	Finnország	6	1	
+289	1952.07.15		Turku		14000	Románia	2	1	OJ-sel.
+290	1952.07.21	18:00:00	Helsinki		20000	Olaszország	3	0	OJ
+291	1952.07.24		Kotka		20000	Törökország	7	1	OJ
+292	1952.07.28		Helsinki		35000	Svédország	6	0	OJ
+293	1952.08.02		Helsinki		60000	Jugoszlávia	2	0	OJ
+294	1952.09.20		Bern		35000	Svájc	4	2	
+295	1952.10.19	14:30:00	Budapest	Megyeri út	48000	Csehszlovákia	5	0	
+296	1953.04.26	17:00:00	Budapest	Megyeri út	44000	Ausztria	1	1	
+297	1953.05.17	16:15:00	Róma	Centomila-stadion	84000	Olaszország	3	0	
+298	1953.07.05		Stockholm		40000	Svédország	4	2	
+299	1953.10.04		Prága		50000	Csehszlovákia	5	1	
+300	1953.10.04		Szófia		45000	Bulgária	1	1	
+301	1953.10.11		Bécs		65000	Ausztria	3	2	
+302	1953.11.15	13:30:00	Budapest	Népstadion	80000	Svédország	2	2	
+303	1953.11.25		London		105000	Anglia	6	3	
+304	1954.02.12		Kairó		28000	Egyiptom	3	0	
+305	1954.04.11		Bécs		65000	Ausztria	1	0	
+306	1954.05.23	17:30:00	Budapest	Népstadion	92000	Anglia	7	1	
+307	1954.06.17		Zürich		15000	Dél-Korea	9	0	VB-1954
+308	1954.06.20		Bázel		53000	Németország	8	3	VB-1954
+309	1954.06.27		Bern	Wankdorf-stadion	61600	Brazília	4	2	VB-1954
+310	1954.06.30		Lausanne		50000	Uruguay	4	2	VB-1954
+311	1954.07.04		Bern	Wankdorf-stadion	63450	Németország	2	3	VB-1954
+312	1954.09.19		Budapest	Népstadion	93000	Románia	5	1	
+313	1954.09.26		Moszkva		85000	Szovjetunió	1	1	
+314	1954.10.10	15:00:00	Budapest	Népstadion	94000	Svájc	3	0	
+315	1954.10.24		Budapest	Népstadion	93000	Csehszlovákia	4	1	
+316	1954.11.14	14:00:00	Budapest	Népstadion	94000	Ausztria	4	1	
+317	1954.12.08		Glasgow		134000	Skócia	4	2	
+318	1955.04.24		Bécs		65000	Ausztria	2	2	
+319	1955.05.08		Oslo		34000	Norvégia	5	0	
+320	1955.05.11		Stockholm		40000	Svédország	7	3	
+321	1955.05.15	13:30:00	Koppenhága	Blodclub-stadion	41000	Dánia	6	0	
+322	1955.05.20		Helsinki		30000	Finnország	9	1	
+323	1955.05.29	18:00:00	Budapest	Népstadion	100000	Skócia	3	1	
+324	1955.09.17		Lausanne		45000	Svájc	5	4	
+325	1955.09.25	16:30:00	Budapest	Népstadion	103000	Szovjetunió	1	1	
+326	1955.10.02		Prága		50000	Csehszlovákia	3	1	
+327	1955.10.16	14:30:00	Budapest	Népstadion	104000	Ausztria	6	1	
+328	1955.11.13	13:30:00	Budapest	Népstadion	90000	Svédország	4	2	
+329	1955.11.27	13:00:00	Budapest	Népstadion	103000	Olaszország	2	0	
+330	1956.02.19		Isztambul		33000	Törökország	1	3	
+331	1956.02.29		Bejrút		20000	Libanon	4	1	
+332	1956.04.29	16:30:00	Budapest	Népstadion	100000	Jugoszlávia	2	2	
+333	1956.05.20	17:00:00	Budapest	Népstadion	90000	Csehszlovákia	2	4	
+334	1956.06.03		Brüsszel		70000	Belgium	4	5	
+335	1956.06.09	19:30:00	Lisszabon	Nemzeti stadion	70000	Portugália	2	2	
+336	1956.07.15	18:00:00	Budapest	Népstadion	48000	Lengyelország	4	1	
+337	1956.09.16	17:00:00	Belgrád		65000	Jugoszlávia	3	1	
+338	1956.09.23		Moszkva		105000	Szovjetunió	1	0	
+339	1956.10.07		Párizs		60000	Franciaország	2	1	
+340	1956.10.14		Bécs	Práter-stadion	65000	Ausztria	2	0	
+341	1957.06.12	20:00:00	Oslo	Ullevaal-stadion	31430	Norvégia	1	2	VB-sel-1958
+342	1957.06.16	19:00:00	Stockholm	Rasunda-stadion	35000	Svédország	0	0	
+343	1957.06.23	18:00:00	Budapest	Népstadion	60000	Bulgária	4	1	VB-sel-1958
+344	1957.09.15		Szófia		55000	Bulgária	2	1	VB-sel-1958
+345	1957.09.23	16:30:00	Budapest	Népstadion	91000	Szovjetunió	1	2	
+346	1957.10.06	15:00:00	Budapest	Népstadion	94000	Franciaország	2	0	
+347	1957.11.10	14:00:00	Budapest	Népstadion	90000	Norvégia	5	0	VB-sel-1958
+348	1957.12.22		Hannover	Niedersachsen-stadion	83800	Németország	0	1	
+349	1958.04.20	16:30:00	Budapest	Népstadion	100000	Jugoszlávia	2	0	
+350	1958.05.07		Glasgow		55000	Skócia	1	1	
+351	1958.06.08		Sandviken		20000	Wales	1	1	VB-1958
+352	1958.06.12		Stockholm		40000	Svédország	1	2	VB-1958
+353	1958.06.15		Sandviken		13500	Mexikó	4	0	VB-1958
+354	1958.06.17		Stockholm		4000	Wales	1	2	VB-1958
+355	1958.09.14		Chorzow		110000	Lengyelország	3	1	
+356	1958.09.28		Moszkva		120000	Szovjetunió	1	3	EB-sel-1960
+357	1958.10.05		Zágráb		45000	Jugoszlávia	4	4	
+358	1958.10.26		Bukarest		100000	Románia	2	1	
+359	1958.11.23	14:30:00	Budapest	Népstadion	60000	Belgium	3	1	
+360	1959.04.19	17:00:00	Budapest	Népstadion	90000	Jugoszlávia	4	0	
+361	1959.05.01		Drezda		50000	NDK	1	0	
+362	1959.06.28	17:30:00	Budapest	Népstadion	72000	Svédország	3	2	
+363	1959.09.27	15:30:00	Budapest	Népstadion	90000	Szovjetunió	0	1	EB-sel-1960
+364	1959.10.11		Belgrád		55000	Jugoszlávia	4	2	
+365	1959.10.25	14:00:00	Budapest	Népstadion	70000	Svájc	8	0	
+366	1959.11.08	13:30:00	Budapest	Népstadion	91300	Németország	4	3	
+367	1959.11.29	14:00:00	Firenze		61000	Olaszország	1	1	
+368	1960.05.22	17:30:00	Budapest	Népstadion	90000	Anglia	2	0	
+369	1960.06.05	17:30:00	Budapest	Népstadion	85000	Skócia	3	3	
+370	1960.10.09	15:00:00	Budapest	Népstadion	70000	Jugoszlávia	1	1	
+371	1960.10.30		Brüsszel	Heysel-stadion	43400	Belgium	1	2	
+372	1960.11.13	14:00:00	Budapest	Népstadion	35000	Lengyelország	4	1	
+373	1960.11.20	13:30:00	Budapest	Népstadion	70000	Ausztria	2	0	
+374	1961.02.17		Kairó		50000	Egyiptom	2	0	
+375	1961.04.16	16:30:00	Budapest	Megyeri út	32000	NDK	2	0	VB-sel-1962
+376	1961.04.30	16:00:00	Rotterdam	Feyenoord-stadion	65000	Hollandia	3	0	VB-sel-1962
+377	1961.05.07		Belgrád		60000	Jugoszlávia	4	2	
+378	1961.05.28	17:30:00	Budapest	Népstadion	46700	Wales	3	2	
+379	1961.06.11	17:30:00	Budapest	Népstadion	80000	Ausztria	1	2	
+380	1961.09.10		Berlin	Walter Ulbricht-stadion	30000	NDK	3	2	VB-sel-1962
+381	1961.10.08		Bécs	Práter-stadion	92000	Ausztria	1	2	
+382	1961.10.22	14:30:00	Budapest	Népstadion	30000	Hollandia	3	3	VB-sel-1962
+383	1961.12.09		Santiago	Estadio Nacional	55000	Chile	1	5	
+384	1961.12.13		Santiago	Estadio Nacional	42000	Chile	0	0	
+385	1961.12.23		Montevideo	Stadio Centennario	22000	Uruguay	1	1	
+386	1962.04.18	19:00:00	Budapest	Népstadion	80000	Uruguay	1	1	
+387	1962.04.29	16:30:00	Budapest	Népstadion	40000	Törökország	2	1	
+388	1962.05.31	21:00:00	Rancagua	Braden Cooper-stadion	13600	Anglia	2	1	VB-1962
+389	1962.06.03		Rancagua	Braden Cooper-stadion	9000	Bulgária	6	1	VB-1962
+390	1962.06.06		Rancagua	Braden Cooper-stadion	5000	Argentína	0	0	VB-1962
+391	1962.06.10		Rancagua	Braden Cooper-stadion	14000	Csehszlovákia	0	1	VB-1962
+392	1962.06.24	17:00:00	Bécs	Práter-stadion	75000	Ausztria	2	1	
+393	1962.09.02	14:30:00	Poznan	Warta-stadion	40000	Lengyelország	2	0	
+394	1962.10.14	14:30:00	Budapest	Népstadion	40000	Jugoszlávia	0	1	
+395	1962.10.28	14:00:00	Budapest	Népstadion	65000	Ausztria	2	0	
+396	1962.11.07	14:00:00	Budapest	Népstadion	40000	Wales	3	1	EB-sel-1964
+397	1962.11.11		Párizs	Colombes-i stadion	60000	Franciaország	3	2	
+398	1963.03.20		Cardiff	Ninian-park	40000	Wales	1	1	EB-sel-1964
+399	1963.05.05		Stockholm	Rasunda-stadion	20000	Svédország	1	2	
+400	1963.05.19	17:00:00	Budapest	Népstadion	45000	Dánia	6	0	
+401	1963.06.02		Prága	Strahovi-stadion	32000	Csehszlovákia	2	2	
+402	1963.09.22		Moszkva	Lenin-stadion	85000	Szovjetunió	1	1	
+403	1963.10.06		Belgrád	Hadsereg-stadion	65000	Jugoszlávia	0	2	
+404	1963.10.19		Berlin	Walter Ulbricht-stadion	60000	NDK	2	1	EB-sel-1964
+405	1963.10.27	14:00:00	Budapest	Népstadion	70000	Ausztria	2	1	
+406	1963.11.03	14:00:00	Budapest	Népstadion	40000	NDK	3	3	EB-sel-1964
+407	1964.04.25		Párizs	Colombes-i stadion	45000	Franciaország	3	1	EB-sel-1964
+408	1964.05.03		Bécs	Práter-stadion	75000	Ausztria	0	1	
+409	1964.05.23	17:30:00	Budapest	Népstadion	80000	Franciaország	2	1	EB-sel-1964
+410	1964.06.17		Madrid	Santiago Bernabeu	75000	Spanyolország	1	2	EB-1964
+411	1964.06.20		Barcelona	Nou Camp	3000	Dánia	3	1	EB-1964
+412	1964.10.04		Bern	Wankdorf-stadion	40000	Svájc	2	0	
+413	1964.10.11	15:00:00	Budapest	Népstadion	65000	Csehszlovákia	2	2	
+414	1964.10.25	14:30:00	Budapest	Népstadion	30000	Jugoszlávia	2	1	
+415	1965.05.05	15:00:00	London	Wembley-stadion	50000	Anglia	0	1	
+416	1965.05.23		Lipcse		106000	NDK	1	1	VB-sel-1966
+417	1965.06.13		Bécs	Práter-stadion	72000	Ausztria	1	0	VB-sel-1966
+418	1965.06.27	18:00:00	Budapest	Népstadion	25000	Olaszország	2	1	
+419	1965.09.05	16:00:00	Budapest	Népstadion	80000	Ausztria	3	0	VB-sel-1966
+420	1965.10.09	15:00:00	Budapest	Népstadion	80000	NDK	3	2	VB-sel-1966
+421	1966.05.03		Chorzow		105000	Lengyelország	1	1	
+422	1966.05.08		Zágráb	Maksimir-stadion	25000	Jugoszlávia	0	2	
+423	1966.06.05	18:00:00	Budapest	Népstadion	35000	Svájc	3	1	
+424	1966.07.13		Manchester	Old Trafford	50000	Portugália	1	3	VB-1966
+425	1966.07.15		Liverpool	Goodison Park	50000	Brazília	3	1	VB-1966
+426	1966.07.20		Manchester	Old Trafford	30000	Bulgária	3	1	VB-1966
+427	1966.07.23		Sunderland	Roker-park	25000	Szovjetunió	1	2	VB-1966
+428	1966.09.07		Rotterdam	Feyenoord-stadion	65000	Hollandia	2	2	EB-sel-1968
+429	1966.09.21	18:30:00	Budapest	Népstadion	30000	Dánia	6	0	EB-sel-1968
+430	1966.09.28	18:30:00	Budapest	Népstadion	25000	Franciaország	4	2	
+431	1966.10.30	14:00:00	Budapest	Népstadion	25000	Ausztria	3	1	
+432	1967.04.23	16:30:00	Budapest	Népstadion	30000	Jugoszlávia	1	0	
+433	1967.05.10	19:15:00	Budapest	Népstadion	30000	Hollandia	2	1	EB-sel-1968
+434	1967.05.24	19:00:00	Koppenhága	Edraets-park	35000	Dánia	2	0	EB-sel-1968
+435	1967.09.06	19:30:00	Bécs	Práter-stadion	68000	Ausztria	3	1	
+436	1967.09.27	18:00:00	Budapest	Népstadion	72000	NDK	3	1	EB-sel-1968
+437	1967.10.29	14:00:00	Lipcse	Központi-stadion	55000	NDK	0	1	EB-sel-1968
+438	1968.05.04	17:00:00	Budapest	Népstadion	80000	Szovjetunió	2	0	EB-sel-1968
+439	1968.05.11	17:30:00	Moszkva	Luzniki-stadion	100000	Szovjetunió	0	3	EB-sel-1968
+440	1969.05.25	17:30:00	Budapest	Népstadion	82344	Csehszlovákia	2	0	VB-sel-1970
+441	1969.06.08	15:30:00	Dublin	Dalymount-park	30000	Írország	2	1	VB-sel-1970
+442	1969.06.15	13:30:00	Koppenhága	Edraets-park	50000	Dánia	2	3	VB-sel-1970
+443	1969.09.14	15:30:00	Prága	Sparta-stadion	40000	Csehszlovákia	3	3	VB-sel-1970
+444	1969.09.24	19:00:00	Stockholm	Rasunda-stadion	11300	Svédország	0	2	
+445	1969.10.22	18:15:00	Budapest	Népstadion	45000	Dánia	3	0	VB-sel-1970
+446	1969.11.05	18:15:00	Budapest	Népstadion	28000	Írország	4	0	VB-sel-1970
+447	1969.12.03	20:00:00	Marseille	Stade Vélodrome	11000	Csehszlovákia	1	4	VB-sel-1970
+448	1970.04.12	18:15:00	Belgrád	JNA-stadion	10000	Jugoszlávia	2	2	
+449	1970.05.02	17:00:00	Budapest	Népstadion	10000	Lengyelország	2	0	
+450	1970.05.16	17:30:00	Budapest	Népstadion	30000	Svédország	1	2	
+451	1970.09.09	19:30:00	Nürnberg	Frankenstadion	67400	Németország	1	3	
+452	1970.09.27	15:30:00	Budapest	Népstadion	26774	Ausztria	1	1	
+453	1970.10.07	19:00:00	Oslo	Ullevaal-stadion	15000	Norvégia	3	1	EB-sel-1972
+454	1970.11.15	19:00:00	Bázel	St.Jacob-stadion	30000	Svájc	1	0	
+455	1971.04.04	15:00:00	Bécs	Práter-stadion	41300	Ausztria	2	0	
+456	1971.04.24	16:30:00	Budapest	Népstadion	47000	Franciaország	1	1	EB-sel-1972
+457	1971.05.19	17:30:00	Szófia	Levski-stadion	52000	Bulgária	0	3	EB-sel-1972
+458	1971.07.22	5:00:00	Rio de Janeiro	Maracana-stadion	88700	Brazília	0	0	
+459	1971.09.01	16:30:00	Budapest	Népstadion	43344	Jugoszlávia	2	1	
+460	1971.09.25	17:30:00	Budapest	Népstadion	71300	Bulgária	2	0	EB-sel-1972
+461	1971.10.09	15:00:00	Párizs	Colombes-i stadion	38600	Franciaország	2	0	EB-sel-1972
+462	1971.10.27	17:30:00	Budapest	Népstadion	30000	Norvégia	4	0	EB-sel-1972
+463	1971.11.14	14:45:00	Gzira	Gzira-stadion	12000	Málta	2	0	VB-sel-1974
+464	1972.01.12	20:30:00	Madrid	Santiago Bernabeu	28872	Spanyolország	0	1	
+465	1972.03.29	18:00:00	Budapest	Népstadion	55000	Németország	0	2	
+466	1972.04.29	17:00:00	Budapest	Népstadion	72000	Románia	1	1	EB-1972
+467	1972.05.06	18:30:00	Budapest	Megyeri út	11344	Málta	3	0	VB-sel-1974
+468	1972.05.14	16:00:00	Bukarest	August 23-stadion	73200	Románia	2	2	EB-1972
+469	1972.05.17	20:00:00	Belgrád	Partizan-stadion	55000	Románia	2	1	EB-1972
+470	1972.05.25	19:00:00	Stockholm	Rasunda-stadion	32000	Svédország	0	0	VB-sel-1974
+471	1972.06.14	20:00:00	Brüsszel	Emile Verse-stadion	3000	Szovjetunió	0	1	EB-1972
+472	1972.06.17	20:00:00	Liege	Dufrasne-stadion	6184	Belgium	1	2	EB-1972
+473	1972.08.27	15:00:00	Nürnberg	Franken-stadion	3000	Irán	5	0	OJ
+474	1972.08.31		Augsburg	Rosenau-stadion	5000	Dánia	2	0	OJ
+475	1972.09.03	15:00:00	Passau	Dreiflüsse-stadion	8000	NDK	2	0	OJ
+476	1972.09.10		München	Olimpiai-stadion	50000	Lengyelország	1	2	OJ-döntő.
+477	1972.10.15	15:30:00	Bécs	Práter-stadion	75000	Ausztria	2	2	VB-sel-1974
+478	1973.04.29	17:00:00	Budapest	Népstadion	77866	Ausztria	2	2	VB-sel-1974
+479	1973.05.16	19:00:00	Karl-Marx-Stadt	Thälmann-stadion	42000	NDK	1	2	
+480	1973.06.13	18:00:00	Budapest	Népstadion	80000	Svédország	3	3	VB-sel-1974
+481	1973.09.26	18:15:00	Belgrád		25000	Jugoszlávia	1	1	
+482	1973.10.13	15:30:00	Koppenhága		25000	Dánia	2	2	
+483	1973.11.21	17:30:00	Budapest	Népstadion	6565	NDK	0	1	
+484	1974.03.31	15:00:00	Zalaegerszeg		21343	Bulgária	3	1	
+485	1974.04.17	19:30:00	Dortmund	Westfalen-stadion	54000	Németország	0	5	
+486	1974.05.29	17:00:00	Székesfehérvár	Sóstói-stadion	17300	Jugoszlávia	3	2	
+487	1974.09.28	15:30:00	Bécs	Práter-stadion	40000	Ausztria	0	1	
+488	1974.10.13	15:30:00	Luxembourg	Municipal-stadion	3000	Luxemburg	4	2	EB-sel-1976
+489	1974.10.30	20:30:00	Cardiff		15000	Wales	0	2	EB-sel-1976
+490	1974.11.10	14:00:00	Várna	Gagarin-stadion	8000	Bulgária	0	0	
+491	1974.12.04		Szolnok	Tiszaligeti stadion	20000	Svájc	1	0	
+492	1975.03.26	20:30:00	Párizs	Parc des Princes	25000	Franciaország	0	2	
+493	1975.04.02	19:30:00	Bécs	Práter-stadion	75000	Ausztria	0	0	EB-sel-1976
+494	1975.04.16	17:30:00	Budapest	Népstadion	22700	Wales	1	2	EB-sel-1976
+495	1975.05.07	20:00:00	Budapest	Népstadion	20000	Bulgária	2	0	OJ-sel.
+496	1975.06.07	17:00:00	Szófia	Levski-stadion	25000	Bulgária	0	4	OJ-sel.
+497	1975.08.10	16:30:00	Teherán		38000	Irán	2	1	
+498	1975.09.24	17:15:00	Budapest	Népstadion	35000	Ausztria	2	1	EB-sel-1976
+499	1975.10.08	17:30:00	Lódz		20000	Lengyelország	2	4	
+500	1975.10.15	17:00:00	Pozsony	Slovan-stadion	35000	Csehszlovákia	1	1	
+501	1975.10.19	13:30:00	Szombathely		10000	Luxemburg	8	1	EB-sel-1976
+502	1976.03.27	17:45:00	Budapest	Népstadion	25000	Argentína	2	0	
+503	1976.04.17	17:30:00	Banja Luka		11000	Jugoszlávia	0	0	
+504	1976.04.30	20:00:00	Lausanne		10000	Svájc	1	0	
+505	1976.05.22	20:00:00	Budapest	Népstadion	8726	Franciaország	1	0	
+506	1976.05.26	20:00:00	Budapest	Népstadion	15000	Szovjetunió	1	1	
+507	1976.06.12	20:00:00	Budapest	Népstadion	20000	Ausztria	2	0	
+508	1976.09.08	19:00:00	Stockholm	Rasunda-stadion	10000	Svédország	1	1	
+509	1976.09.22	17:30:00	Berlin	Jahn-stadion	20000	NDK	1	1	
+510	1976.10.09		Athen	Karaiskakis-stadion	29780	Görögország	1	1	VB-sel-1978
+511	1976.10.13		Bécs	Práter-stadion	40000	Ausztria	4	2	
+512	1977.02.10	2:30:00	Lima		50000	Peru	2	3	
+513	1977.02.23	2:30:00	Puebla		40000	Mexikó	1	1	
+514	1977.02.28	1:00:00	Buenos Aires		60000	Argentína	1	5	
+515	1977.03.15	15:30:00	Teherán	Amjadieh-stadion	25000	Irán	2	0	
+516	1977.03.27	17:00:00	Alicante		25000	Spanyolország	1	1	
+517	1977.04.13	18:00:00	Budapest	Népstadion	30000	Lengyelország	2	1	
+518	1977.04.20	18:00:00	Budapest	Népstadion	45000	Csehszlovákia	2	0	
+519	1977.04.30	19:00:00	Budapest	Népstadion	73000	Szovjetunió	2	1	VB-sel-1978
+520	1977.05.18	16:30:00	Tbiliszi		75000	Szovjetunió	0	2	VB-sel-1978
+521	1977.05.28	20:00:00	Budapest	Népstadion	70000	Görögország	3	0	VB-sel-1978
+522	1977.10.05	18:00:00	Budapest	Népstadion	16770	Jugoszlávia	4	3	
+523	1977.10.12	18:00:00	Budapest	Népstadion	12776	Svédország	3	0	
+524	1977.10.29	17:00:00	Budapest	Népstadion	60000	Bolívia	6	0	VB-sel-1978
+525	1977.11.09	17:00:00	Prága	Sparta-stadion	10000	Csehszlovákia	1	1	
+526	1977.11.30	2:00:00	La Paz	Olimpiai stadion	55000	Bolívia	3	2	VB-sel-1978
+527	1978.04.15	17:00:00	Budapest	Népstadion	40000	Csehszlovákia	2	1	
+528	1978.05.24	19:45:00	London	Wembley-stadion	74000	Anglia	1	4	
+529	1978.06.02	23:00:00	Buenos Aires	Monumental-stadion	78000	Argentína	1	2	VB-1978
+530	1978.06.06	17:45:00	Mar del Plata	Minella-stadion	37700	Olaszország	1	3	VB-1978
+531	1978.06.10	17:45:00	Mar del Plata	Minella-stadion	25000	Franciaország	1	3	VB-1978
+532	1978.09.20	17:30:00	Helsinki	Olimpiai stadion	5432	Finnország	1	2	EB-sel-1980
+533	1978.10.11	18:00:00	Budapest	Népstadion	36400	Szovjetunió	2	0	EB-sel-1980
+534	1978.10.29	14:00:00	Szaloniki	Kastanzogliu-stadion	10000	Görögország	1	4	EB-sel-1980
+535	1978.11.15	20:00:00	Frankfurt	Wald-stadion	40000	Németország	0	0	
+536	1979.03.28	18:00:00	Budapest	Népstadion	10479	NDK	3	0	
+537	1979.04.04	17:00:00	Chorzow	Slaski-stadion	50000	Lengyelország	1	1	
+538	1979.05.02	18:30:00	Budapest	Népstadion	17230	Görögország	0	0	EB-sel-1980
+539	1979.05.19	16:00:00	Tbiliszi		75000	Szovjetunió	2	2	EB-sel-1980
+540	1979.09.12	17:00:00	Nyíregyháza		27000	Csehszlovákia	2	1	
+541	1979.09.26	19:30:00	Bécs	Práter-stadion	56870	Ausztria	1	3	
+542	1979.10.17	14:00:00	Debrecen	Nagyerdei stadion	18000	Finnország	3	1	EB-sel-1980
+543	1979.10.26	17:30:00	Budapest	Népstadion	5400	USA	0	2	
+544	1980.03.26	17:15:00	Budapest	Népstadion	15000	Lengyelország	2	1	
+545	1980.04.30	16:30:00	Kassa		35000	Csehszlovákia	0	1	
+546	1980.05.31	20:00:00	Budapest	Népstadion	10000	Skócia	3	1	
+547	1980.06.04	18:00:00	Budapest	Népstadion	30000	Ausztria	1	1	
+548	1980.08.20	18:45:00	Budapest	Népstadion	19550	Svédország	2	0	
+549	1980.08.27	20:00:00	Budapest	Népstadion	17700	Szovjetunió	1	4	
+550	1980.09.24	19:00:00	Budapest	Népstadion	13800	Spanyolország	2	2	
+551	1980.10.08	19:00:00	Bécs	Práter-stadion	9300	Ausztria	1	3	
+552	1980.11.19	17:00:00	Halle	Kurt Wabbel-stadion	14900	NDK	0	2	
+553	1981.04.15	20:30:00	Valencia	Luis Casanova-stadion	25700	Spanyolország	3	0	
+554	1981.04.28	20:00:00	Luzern	Allmend-stadion	22300	Svájc	2	2	VB-sel-1982
+555	1981.05.13	20:00:00	Budapest	Népstadion	62800	Románia	1	0	VB-sel-1982
+556	1981.05.20	19:00:00	Oslo	Ullevaal-stadion	28700	Norvégia	2	1	VB-sel-1982
+557	1981.06.06	20:00:00	Budapest	Népstadion	68600	Anglia	1	3	VB-sel-1982
+558	1981.09.23	16:00:00	Bukarest	August 23-stadion	75000	Románia	0	0	VB-sel-1982
+559	1981.10.14	18:00:00	Budapest	Népstadion	69600	Svájc	3	0	VB-sel-1982
+560	1981.10.31	18:00:00	Budapest	Népstadion	68000	Norvégia	4	1	VB-sel-1982
+561	1981.11.18	20:45:00	London	Wembley-stadion	92000	Anglia	0	1	VB-sel-1982
+562	1982.02.11	6:30:00	Auckland	Mt. Smalt-stadion	20000	Új-Zéland	2	1	
+563	1982.02.14	3:30:00	Christchurch		22000	Új-Zéland	2	1	
+564	1982.03.24	18:00:00	Budapest	Népstadion	50000	Ausztria	2	3	
+565	1982.04.18	18:00:00	Budapest	Népstadion	25000	Peru	1	2	
+566	1982.06.15	21:00:00	Elche	Nuevo Estadio Altabix	20000	Salvador	10	1	VB-1982
+567	1982.06.18	21:00:00	Alicante	Jose Rico Perez-stadion	38000	Argentína	1	4	VB-1982
+568	1982.06.22	21:00:00	Elche	Estadio Nuevo Altabix	25000	Belgium	1	1	VB-1982
+569	1982.09.22	16:30:00	Győr		8000	Törökország	5	0	
+570	1982.10.06	20:30:00	Párizs	Parc des Princes	15000	Franciaország	0	1	
+571	1983.03.27	15:00:00	Luxembourg	Municipal-stadion	4000	Luxemburg	6	2	EB-sel-1984
+572	1983.04.13	21:00:00	Coimbra	Cidade-stadion	15000	Portugália	0	0	
+573	1983.04.17	19:00:00	Budapest	Népstadion	15000	Luxemburg	6	2	EB-sel-1984
+574	1983.04.27	20:45:00	London	Wembley-stadion	60000	Anglia	0	2	EB-sel-1984
+575	1983.05.15	20:00:00	Budapest	Népstadion	17000	Görögország	2	3	EB-sel-1984
+576	1983.06.01	19:00:00	Koppenhága	Edraets-park	50000	Dánia	1	3	EB-sel-1984
+577	1983.09.07	20:15:00	Budapest	Népstadion	30000	Németország	1	1	
+578	1983.10.12	18:00:00	Budapest	Népstadion	25000	Anglia	0	3	EB-sel-1984
+579	1983.10.26	18:00:00	Budapest	Népstadion	8000	Dánia	1	0	EB-sel-1984
+580	1983.12.03	14:00:00	Szaloniki	Kastanzoglu-stadion	3000	Görögország	2	2	EB-sel-1984
+581	1984.01.18	20:30:00	Cadiz		25000	Spanyolország	1	0	
+582	1984.03.31	16:00:00	Szabadka		32000	Jugoszlávia	1	2	
+583	1984.04.04	14:00:00	Isztambul	Inönü-stadion	50000	Törökország	6	0	
+584	1984.05.23	20:00:00	Székesfehérvár	Sóstói-stadion	5000	Norvégia	0	0	
+585	1984.05.31	20:00:00	Budapest	Üllői út	10000	Spanyolország	1	1	
+586	1984.06.06	20:00:00	Brüsszel	Heysel-stadion	15000	Belgium	2	2	
+587	1984.08.22	19:00:00	Budapest	Népstadion	12000	Svájc	3	0	
+588	1984.08.25	19:00:00	Budapest	Népstadion	10000	Mexikó	0	2	
+589	1984.09.26	19:00:00	Budapest	Népstadion	45000	Ausztria	3	1	VB-sel-1986
+590	1984.10.17	20:00:00	Rotterdam	Feyenoord-stadion	27000	Hollandia	2	1	VB-sel-1986
+591	1984.11.17	17:00:00	Limasszol	Páfoszi-stadion	12000	Ciprus	2	1	VB-sel-1986
+592	1985.01.29	20:15:00	Hamburg	Volkspark-stadion	25000	Németország	1	0	
+593	1985.04.03	16:30:00	Budapest	Népstadion	40000	Ciprus	2	0	VB-sel-1986
+594	1985.04.17	19:30:00	Bécs	Hanappi-stadion	22000	Ausztria	3	0	VB-sel-1986
+595	1985.05.14	19:30:00	Budapest	Népstadion	74000	Hollandia	0	1	VB-sel-1986
+596	1985.10.16	19:30:00	Cardiff	Ninien-park	4000	Wales	3	0	
+597	1985.12.10	23:00:00	Irapuato	Revolucion stadion	30000	Dél-Korea	1	0	
+598	1985.12.12	3:45:00	Monterrey	Tecnológico-stadion	3000	Algéria	3	1	
+599	1985.12.14	19:00:00	Toluca	Nemesio-stadion	35000	Mexikó	0	2	
+600	1986.01.30	14:00:00	Doha	Al Ahli-stadion	2500	Ázsia-válogatott	3	0	
+601	1986.02.01	16:30:00	Doha	Al Ahli-stadion	2500	Ázsia-válogatott	2	0	
+602	1986.02.02	18:00:00	Doha	Al-Kabir-stadion	2000	Katar	3	0	
+603	1986.03.16	15:30:00	Budapest	Népstadion	72000	Brazília	3	0	
+604	1986.06.02	20:00:00	Irapuato	Sergio Chavez stadion	15000	Szovjetunió	0	6	VB-1986
+605	1986.06.06	20:00:00	Irapuato	Sergio Chavez stadion	10000	Kanada	2	0	VB-1986
+606	1986.06.09	20:00:00	Leon	Nuevo Campo-stadion	25900	Franciaország	0	3	VB-1986
+607	1986.09.09	19:00:00	Oslo	Ullevaal-stadion	2917	Norvégia	0	0	
+608	1986.10.15	18:00:00	Budapest	Népstadion	20000	Hollandia	0	1	EB-sel-1988
+609	1986.11.12	16:00:00	Athen	Olimpiai-stadion	25000	Görögország	1	2	EB-sel-1988
+610	1987.02.08	14:00:00	Nicosia	Makarios-stadion	10000	Ciprus	1	0	EB-sel-1988
+611	1987.04.29	20:00:00	Rotterdam	Feyenoord-stadion	55000	Hollandia	0	2	EB-sel-1988
+612	1987.05.17	18:00:00	Budapest	Népstadion	14000	Lengyelország	5	3	EB-sel-1988
+613	1987.07.28	20:00:00	Lipcse	Központi-stadion	74000	NDK	0	0	
+614	1987.09.09	21:00:00	Glasgow	Hampden-park	25000	Skócia	0	2	
+615	1987.09.23	17:00:00	Varsó	Legia-stadion	10000	Lengyelország	2	3	EB-sel-1988
+616	1987.10.14	18:30:00	Budapest	Népstadion	15000	Görögország	3	0	EB-sel-1988
+617	1987.11.18	18:00:00	Budapest	Népstadion	35000	Németország	0	0	
+618	1987.12.02	17:30:00	Budapest	Üllői út	5000	Ciprus	1	0	EB-sel-1988
+619	1988.03.16	17:00:00	Budapest	Népstadion	3000	Törökország	1	0	
+620	1988.03.26	20:00:00	Brüsszel	Heysel-stadion	10000	Belgium	0	3	
+621	1988.04.27	17:00:00	Budapest	Népstadion	35000	Anglia	0	0	
+622	1988.05.04	18:00:00	Budapest	Népstadion	4200	Izland	3	0	
+623	1988.05.10	18:00:00	Budapest	Népstadion	7000	Dánia	2	2	
+624	1988.05.17	18:00:00	Budapest	Népstadion	8000	Ausztria	0	4	
+625	1988.08.31	19:30:00	Linz	Városi stadion	12000	Ausztria	0	0	
+626	1988.09.21	19:30:00	Reykjavik	Laugardar-stadion	500	Izland	3	0	
+627	1988.10.19	18:00:00	Budapest	Népstadion	16120	Észak-Írország	1	0	VB-sel-1990
+628	1988.11.15	19:00:00	Athén	Olympiakos-stadion	500	Görögország	0	3	
+629	1988.12.11	14:15:00	Valetta	TaQuali	10000	Málta	2	2	VB-sel-1990
+630	1989.03.08	18:00:00	Budapest	Népstadion	34000	Írország	0	0	VB-sel-1990
+631	1989.04.04	17:30:00	Budapest	Népstadion	8000	Svájc	3	0	
+632	1989.04.12	18:00:00	Budapest	Népstadion	20000	Málta	1	1	VB-sel-1990
+633	1989.04.26	15:30:00	Taranto	Iacovone-stadion	30000	Olaszország	0	4	
+634	1989.06.04	16:00:00	Dublin	Lansdowne Park	50000	Írország	0	2	VB-sel-1990
+635	1989.09.06	21:00:00	Belfast	Windsor Park	15000	Észak-Írország	2	1	VB-sel-1990
+636	1989.10.11	18:00:00	Budapest	Népstadion	30000	Spanyolország	2	2	VB-sel-1990
+637	1989.10.25	17:30:00	Budapest	Népstadion	4000	Görögország	1	1	
+638	1989.11.15	15:00:00	Sevilla	Pizjuan-stadion	50000	Spanyolország	0	4	VB-sel-1990
+639	1990.03.20	18:00:00	Budapest	Üllői út	12000	USA	2	0	
+640	1990.03.28	17:00:00	Budapest	Népstadion	18700	Franciaország	1	3	
+641	1990.04.11	19:00:00	Salzburg	Lehen-stadion	14300	Ausztria	0	3	
+642	1990.05.28	20:30:00	Nimes	Costieres-stadion	500	Arab Emírségek	3	0	
+643	1990.06.02	18:00:00	Budapest	Fáy utca	4800	Kolumbia	3	1	
+644	1990.09.05	17:00:00	Budapest	Megyeri út	2800	Törökország	4	1	
+645	1990.09.12	21:00:00	London	Wembley-stadion	51249	Anglia	0	1	
+646	1990.10.10	19:00:00	Bergen	Brann-stadion	8000	Norvégia	0	0	EB-sel-1992
+647	1990.10.17	19:00:00	Budapest	Népstadion	32000	Olaszország	1	1	EB-sel-1992
+648	1990.10.31	18:00:00	Budapest	Hungária körút	4000	Ciprus	4	2	EB-sel-1992
+649	1991.01.17	16:00:00	Thiruvananthapuram		21300	India	2	1	
+650	1991.02.20	3:15:00	Rosario	Arroyito-stadion	66780	Argentína	0	2	
+651	1991.03.27	22:00:00	Santander	Sardinero-stadion	35000	Spanyolország	4	2	
+652	1991.04.03	16:00:00	Limasszol	Tsirion Kentro	2400	Ciprus	2	0	EB-sel-1992
+653	1991.04.17	19:00:00	Budapest	Népstadion	62000	Szovjetunió	0	1	EB-sel-1992
+654	1991.05.01	20:15:00	Salerno	Arechi-stadion	35760	Olaszország	1	3	EB-sel-1992
+655	1991.09.11	20:30:00	Győr		5600	Írország	1	2	
+656	1991.09.25	18:00:00	Moszkva	Luzniki-stadion	40000	Szovjetunió	2	2	EB-sel-1992
+657	1991.10.09	20:00:00	Székesfehérvár	Sóstói-stadion	6300	Belgium	0	2	
+658	1991.10.30	20:00:00	Szombathely		8000	Norvégia	0	0	EB-sel-1992
+659	1991.12.04	3:00:00	León	Nuevo Campo-stadion	32000	Mexikó	0	3	
+660	1991.12.08	3:00:00	San Salvador	Cuscatlan-stadion	45000	Salvador	1	1	
+661	1992.03.25	19:30:00	Budapest	Népstadion	6500	Ausztria	2	1	
+662	1992.04.29	16:00:00	Ungvár	Avanhard-stadion	11000	Ukrajna	3	1	
+663	1992.05.12	20:30:00	Budapest	Népstadion	30000	Anglia	0	1	
+664	1992.05.27	19:00:00	Stockholm	Rasunda-stadion	8169	Svédország	1	2	
+665	1992.06.03	19:30:00	Budapest	Népstadion	11700	Izland	1	2	VB-sel-1994
+666	1992.08.26	16:30:00	Nyíregyháza		12800	Ukrajna	2	1	
+667	1992.09.09	20:00:00	Luxembourg	Municipal-stadion	3026	Luxemburg	3	0	VB-sel-1994
+668	1992.09.23	17:00:00	Budapest	Üllői út	3000	Izrael	0	0	
+669	1992.10.11	20:00:00	Doha	Al-Kabir-stadion	1000	Katar	4	1	
+670	1992.10.13	20:00:00	Doha	Al-Kabir stadion	1000	Katar	1	1	
+671	1992.11.11	18:00:00	Szaloniki	Kaftanzoglio-stadion	47800	Görögország	0	0	VB-sel-1994
+672	1993.03.07	5:30:00	Fukuoka	Hakatanomori-stadion	32300	Japán	1	0	
+673	1993.03.10	11:00:00	Nagoja	Mizuho-stadion	10700	USA	0	0	
+674	1993.03.31	18:00:00	Budapest	Népstadion	28400	Görögország	0	1	VB-sel-1994
+675	1993.04.15	20:00:00	Budapest	Népstadion	4800	Svédország	0	2	
+676	1993.04.28	19:00:00	Moszkva	Luzniki-stadion	24700	Oroszország	0	3	VB-sel-1994
+677	1993.05.29	16:30:00	Dublin		25000	Írország	4	2	
+678	1993.06.16	19:00:00	Reykjavik	Laugardalsvöllur	3140	Izland	0	2	VB-sel-1994
+679	1993.09.08	19:00:00	Budapest	Üllői út	8760	Oroszország	1	3	VB-sel-1994
+680	1993.10.27	19:00:00	Budapest	Üllői út	2240	Luxemburg	1	0	VB-sel-1994
+681	1994.03.09	19:15:00	Budapest	Népstadion	6700	Svájc	1	2	
+682	1994.03.23	19:30:00	Linz	Linzer-stadion	16700	Ausztria	1	1	
+683	1994.04.06	19:00:00	Szombathely	Rohonci út	4300	Szlovénia	0	1	
+684	1994.04.20	19:15:00	Koppenhága	Edraets-park	12152	Dánia	1	3	
+685	1994.05.04	16:00:00	Krakkó	Hutnik-stadion	6600	Lengyelország	2	3	
+686	1994.05.18	18:00:00	Győr		3400	Horvátország	2	2	
+687	1994.06.01	20:15:00	Eindhoven	PSV-stadion	27750	Hollandia	1	7	
+688	1994.06.08	20:00:00	Brüsszel	Heysel-stadion	23200	Belgium	1	3	
+689	1994.09.07	20:00:00	Budapest	Népstadion	28000	Törökország	2	2	EB-sel-1996
+690	1994.10.12	18:00:00	Budapest	Népstadion	20000	Németország	0	0	
+691	1994.11.16	19:00:00	Stockholm	Rasunda-stadion	27571	Svédország	0	2	EB-sel-1996
+692	1994.12.14	4:45:00	Mexikóváros	Estadio Azteca	55000	Mexikó	1	5	
+693	1995.03.08	17:00:00	Budapest	Fáy utca	3900	Lettország	3	1	
+694	1995.03.29	20:15:00	Budapest	Népstadion	13800	Svájc	2	2	EB-sel-1996
+695	1995.04.26	20:00:00	Budapest	Népstadion	9300	Svédország	1	0	EB-sel-1996
+696	1995.06.11	19:00:00	Reykjavik	Laugardahlsvöllur	4474	Izland	1	2	EB-sel-1996
+697	1995.08.16	20:00:00	Siófok		9700	Izrael	0	2	
+698	1995.09.06	19:00:00	Isztambul		50000	Törökország	0	2	EB-sel-1996
+699	1995.10.11	20:30:00	Zürich	Hardturm-stadion	20000	Svájc	0	3	EB-sel-1996
+700	1995.11.11	17:00:00	Budapest	Fáy utca	3214	Izland	1	0	EB-sel-1996
+701	1996.04.10	17:00:00	Eszék	Gradski stadion	16000	Horvátország	1	4	
+702	1996.04.24	18:00:00	Budapest	Népstadion	4000	Ausztria	0	2	
+703	1996.05.18	16:00:00	London	Wembley-stadion	30000	Anglia	0	3	
+704	1996.06.01	20:30:00	Budapest	Népstadion	25000	Olaszország	0	2	
+705	1996.08.14	19:00:00	Siófok	Révész G. u.	6000	Arab Emírségek	3	1	
+706	1996.09.01	18:30:00	Budapest	Népstadion	14300	Finnország	1	0	VB-sel-1998
+707	1996.10.09	20:00:00	Oslo	Ullevaal-stadion	22500	Norvégia	0	3	VB-sel-1998
+708	1996.11.10	13:00:00	Baki	Tofik Bahramov-stadion	35000	Azerbajdzsán	3	0	VB-sel-1998
+709	1997.03.19	18:00:00	TaQali		1028	Málta	4	1	
+710	1997.04.02	15:00:00	Budapest	Népstadion	15120	Ausztrália	1	3	
+711	1997.04.30	20:15:00	Zürich		17300	Svájc	0	1	VB-sel-1998
+712	1997.06.08	20:00:00	Budapest	Népstadion	20000	Norvégia	1	1	VB-sel-1998
+713	1997.08.06	20:00:00	Siófok		8000	Málta	3	0	
+714	1997.08.20	18:30:00	Budapest	Népstadion	40000	Svájc	1	1	VB-sel-1998
+715	1997.09.06	19:30:00	Varsó		15000	Lengyelország	0	1	
+716	1997.09.10	19:30:00	Budapest	Üllői út	10000	Azerbajdzsán	3	1	VB-sel-1998
+717	1997.10.11	18:00:00	Helsinki	Olimpiai stadion	31617	Finnország	1	1	VB-sel-1998
+718	1997.10.29	20:00:00	Budapest	Üllői út	13175	Jugoszlávia	1	7	VB-sel-1998
+719	1997.11.15	17:00:00	Belgrád	Crvena Zvezda-stadion	72000	Jugoszlávia	0	5	VB-sel-1998
+720	1998.03.25	20:30:00	Bécs	Ernst Happel-stadion	21319	Ausztria	3	2	
+721	1998.04.20	15:30:00	Teherán	Azadi-stadion	70000	Irán	2	0	
+722	1998.04.22	15:30:00	Teherán	Azadi-stadion	20000	Macedónia	0	0	
+723	1998.05.27	17:00:00	Nyíregyháza		17000	Litvánia	1	0	
+724	1998.08.19	19:30:00	Zalaegerszeg		15000	Szlovénia	2	1	
+725	1998.09.06	20:30:00	Budapest	Népstadion	51433	Portugália	1	3	EB-sel-2000
+726	1998.10.10	14:00:00	Baki		15000	Azerbajdzsán	4	0	EB-sel-2000
+727	1998.10.14	20:15:00	Budapest	Népstadion	30000	Románia	1	1	EB-sel-2000
+728	1998.11.18	20:00:00	Budapest	Üllői út	3000	Svájc	2	0	
+729	1999.03.10	19:30:00	Budapest	Üllői út	7792	Bosznia	1	1	
+730	1999.03.27	19:30:00	Budapest	Üllői út	10776	Liechtenstein	5	0	EB-sel-2000
+731	1999.03.31	18:00:00	Pozsony	Slovan-stadion	19462	Szlovákia	0	0	EB-sel-2000
+732	1999.04.28	20:15:00	Budapest	Népstadion	40000	Anglia	1	1	
+733	1999.06.05	20:00:00	Bukarest	Ghencea-stadion	25000	Románia	0	2	EB-sel-2000
+734	1999.06.09	20:15:00	Győr		18000	Szlovákia	0	1	EB-sel-2000
+735	1999.08.18	20:15:00	Budapest	Üllői út	5000	Moldova	1	1	
+736	1999.09.04	20:15:00	Vaduz	Rheinpark-stadion	1650	Liechtenstein	0	0	EB-sel-2000
+737	1999.09.08	20:15:00	Budapest	Üllői út	1500	Azerbajdzsán	3	0	EB-sel-2000
+738	1999.10.09	19:30:00	Lisszabon	Estadio da Luz	60000	Portugália	0	3	EB-sel-2000
+739	2000.02.23	20:15:00	Budapest	Üllői út	15000	Ausztrália	0	3	
+740	2000.03.29	20:15:00	Debrecen	Oláh Gábor u.	7000	Lengyelország	0	0	
+741	2000.04.26	21:00:00	Belfast	Windsor Park	7600	Észak-Írország	1	0	
+742	2000.05.31	20:30:00	Győr	ETO-stadion	5000	Szaúd-Arábia	2	2	
+743	2000.06.03	18:00:00	Budapest	Fáy utca	5000	Izrael	2	1	
+744	2000.08.16	20:30:00	Budapest	Népstadion	3000	Ausztria	1	1	
+745	2000.09.03	20:45:00	Budapest	Népstadion	60000	Olaszország	2	2	VB-sel-2002
+746	2000.10.11	20:30:00	Kaunas	S. Darius-stadion	300	Litvánia	6	1	VB-sel-2002
+747	2000.11.15	18:00:00	Skopje	Gradski-stadion	2500	Macedónia	1	0	
+748	2001.02.28	17:30:00	Zenica	Bilino Polje-stadion	7500	Bosznia	1	1	
+749	2001.03.07	17:30:00	Amman	Abdullah-stadion	3000	Jordánia	1	1	
+750	2001.03.24	20:00:00	Budapest	Népstadion	19332	Litvánia	1	1	VB-sel-2002
+751	2001.04.25	20:30:00	Budapest	Üllői út	5175	Finnország	0	0	
+752	2001.06.02	19:30:00	Bukarest	Ghencea-stadion	19400	Románia	0	2	VB-sel-2002
+753	2001.06.06	20:15:00	Budapest	Népstadion	7300	Grúzia	4	1	VB-sel-2002
+754	2001.08.15	20:45:00	Budapest	Népstadion	26000	Németország	2	5	
+755	2001.09.01	18:00:00	Tbiliszi	Lokomotiv-stadion	16800	Grúzia	1	3	VB-sel-2002
+756	2001.09.05	20:15:00	Budapest	Népstadion	7000	Románia	0	2	VB-sel-2002
+757	2001.10.06	20:45:00	Parma	Ennio Tardini-stadion	20545	Olaszország	0	1	VB-sel-2002
+758	2001.11.14	20:15:00	Budapest	Megyeri út	10000	Macedónia	5	0	
+759	2002.02.12	18:00:00	Larnaca	Gyunas Zenon-stadion	500	Csehország	0	2	
+760	2002.02.13	16:00:00	Limasszol	Tsirion Kentro	177	Svájc	1	2	
+761	2002.03.27	18:00:00	Chisinau	Republican-stadion	2000	Moldova	2	0	
+762	2002.04.17	17:30:00	Debrecen	Oláh Gábor u.	4880	Belorusszia	2	5	
+763	2002.05.08	17:00:00	Pécs	PMFC-stadion	9000	Horvátország	0	2	
+764	2002.08.21	20:30:00	Budapest	Puskás Ferenc stadion	20000	Spanyolország	1	1	
+765	2002.09.07	18:00:00	Reykjavik	Laugardarsvöllur	3000	Izland	2	0	
+766	2002.10.12	16:00:00	Stockholm	Rasunda-stadion	35084	Svédország	1	1	EB-sel-2004
+767	2002.10.16	20:30:00	Budapest	Megyeri út	8000	San Marino	3	0	EB-sel-2004
+768	2002.11.20	17:30:00	Budapest	Üllői út	6000	Moldova	1	1	
+769	2003.02.12	17:30:00	Larnaca	Ammochostos-stadion	200	Bulgária	0	1	
+770	2003.03.29	20:00:00	Chorzow	Slaski-stadion	49000	Lengyelország	0	0	EB-sel-2004
+771	2003.04.02	20:15:00	Budapest	Puskás Ferenc stadion	27000	Svédország	1	2	EB-sel-2004
+772	2003.04.30	20:15:00	Budapest	Megyeri út	1205	Luxemburg	5	1	
+773	2003.06.07	20:15:00	Budapest	Puskás Ferenc stadion	3580	Lettország	3	1	EB-sel-2004
+774	2003.06.11	20:00:00	Serravalle	Stadio Olimpico	1410	San Marino	5	0	EB-sel-2004
+775	2003.08.20	17:00:00	Muraszombat	Mestni-stadion	5000	Szlovénia	1	2	
+776	2003.09.10	20:00:00	Riga	Skonto-stadion	5000	Lettország	1	3	EB-sel-2004
+777	2003.10.11	17:00:00	Budapest	Puskás Ferenc stadion	15000	Lengyelország	1	2	EB-sel-2004
+778	2003.11.19	17:00:00	Budapest	Üllői út	457	Észtország	0	1	
+779	2004.02.18	18:00:00	Paphos	Paphiako Kentro	300	Örményország	2	0	
+780	2004.02.19	18:00:00	Limasszol	Tsirion Kentro	250	Lettország	2	1	
+781	2004.02.21	14:00:00	Nicosia	GSP-stadion	200	Románia	0	3	
+782	2004.03.31	20:15:00	Budapest	Puskás Ferenc stadion	7500	Wales	1	2	
+783	2004.04.25	13:00:00	Zalaegerszeg	ZTE-Aréna	8000	Japán	3	2	
+784	2004.04.28	20:30:00	Budapest	Puskás Ferenc stadion	45000	Brazília	1	4	
+785	2004.06.01	13:30:00	Tiencsin	Teda-stadion	20000	Kína	1	2	
+786	2004.06.06	19:00:00	Kaiserslautern	Fritz Walter-stadion	36590	Németország	2	0	
+787	2004.08.18	21:00:00	Glasgow	Hampden Park	15300	Skócia	3	0	
+788	2004.09.04	20:30:00	Zágráb	Maksimir-stadion	28000	Horvátország	0	3	VB-sel-2006
+789	2004.09.08	21:15:00	Budapest	Szusza Ferenc stadion	6500	Izland	3	2	VB-sel-2006
+790	2004.10.09	17:00:00	Stockholm	Rasunda-stadion	32288	Svédország	0	3	VB-sel-2006
+791	2004.11.17	19:30:00	TaQali	Nazzjonali-stadion	2500	Málta	2	0	VB-sel-2006
+792	2004.11.30	14:30:00	Bangkok	Nemzeti Stadion	877	Szlovákia	0	1	
+793	2004.12.02	11:00:00	Bangkok	Nemzeti Stadion	760	Észtország	5	0	
+794	2005.02.02	15:00:00	Isztambul	Olimpiai stadion	100	Szaúd-Arábia	0	0	
+795	2005.02.09	21:00:00	Cardiff	Millenium-stadion	16672	Wales	0	2	
+796	2005.03.30	20:45:00	Budapest	Szusza Ferenc stadion	12500	Bulgária	1	1	VB-sel-2006
+797	2005.05.31	21:00:00	Metz	Stade Saint-Symphorien	26120	Franciaország	1	2	
+798	2005.06.04	20:00:00	Reykjavik	Laugardalsvöllur	9000	Izland	3	2	VB-sel-2006
+799	2005.08.17	17:30:00	Budapest	Puskás Ferenc stadion	22755	Argentína	1	2	
+800	2005.09.03	20:45:00	Budapest	Szusza Ferenc stadion	7000	Málta	4	0	VB-sel-2006
+801	2005.09.07	17:00:00	Budapest	Puskás Ferenc stadion	25000	Svédország	0	1	VB-sel-2006
+802	2005.10.08	17:00:00	Szófia	Vasil Levski-stadion	4503	Bulgária	0	2	VB-sel-2006
+803	2005.10.12	19:30:00	Budapest	Szusza Ferenc stadion	7000	Horvátország	0	0	VB-sel-2006
+804	2005.11.16	20:15:00	Athén	Karaiskakis-stadion	13000	Görögország	1	2	
+805	2005.12.15	4:00:00	Phoenix	Chase Field	40000	Mexikó	0	2	
+806	2005.12.19	21:00:00	Miami	FIU Park	159	Antigua és Barbuda	3	0	
+807	2006.05.24	19:00:00	Budapest	Szusza Ferenc stadion	6500	Új-Zéland	2	0	
+808	2006.05.30	21:00:00	Manchester	Old Trafford	53000	Anglia	1	3	
+809	2006.08.16	20:30:00	Graz	UPC-Arena	12000	Ausztria	2	1	
+810	2006.09.02	20:00:00	Budapest	Szusza Ferenc stadion	13500	Norvégia	1	4	EB-sel-2008
+811	2006.09.06	20:15:00	Zenica	Bilino Polje-stadion	21000	Bosznia	3	1	EB-sel-2008
+812	2006.10.07	19:45:00	Budapest	Puskás Ferenc stadion	7500	Törökország	0	1	EB-sel-2008
+813	2006.10.11	19:15:00	TaQali	Nazzjonali-stadion	3710	Málta	1	2	EB-sel-2008
+814	2006.11.15	20:00:00	Székesfehérvár	Sóstói-stadion	6500	Kanada	1	0	
+815	2007.02.06	18:00:00	Limasszol	Tsirion Kentro	300	Ciprus	1	2	
+816	2007.02.07	16:00:00	Limasszol	Tsirion Kentro	112	Lettország	2	0	
+817	2007.03.24	18:00:00	Podgorica	Gradski-stadion	11500	Montenegró	1	2	
+818	2007.03.28	18:00:00	Budapest	Szusza Ferenc stadion	4500	Moldova	2	0	EB-sel-2008
+819	2007.06.02	20:30:00	Heraklion	Pankritio stadion	22000	Görögország	0	2	EB-sel-2008
+820	2007.06.06	19:00:00	Oslo	Ullevaal-stadion	21000	Norvégia	0	4	EB-sel-2008
+821	2007.08.22	21:00:00	Budapest	Puskás Ferenc stadion	34900	Olaszország	3	1	
+822	2007.09.08	16:00:00	Székesfehérvár	Sóstói-stadion	10877	Bosznia	1	0	EB-sel-2008
+823	2007.09.12	19:30:00	Isztambul	Besiktas Inönü-stadion	30000	Törökország	0	3	EB-sel-2008
+824	2007.10.13	16:30:00	Budapest	Szusza Ferenc stadion	9000	Málta	2	0	EB-sel-2008
+825	2007.10.17	18:00:00	Lodz	Widzewa-stadion	7000	Lengyelország	1	0	
+826	2007.11.17	18:00:00	Chisinau	Zimbru-stadion	3500	Moldova	0	3	EB-sel-2008
+827	2007.11.21	20:15:00	Budapest	Puskás Ferenc stadion	32300	Görögország	1	2	EB-sel-2008
+828	2008.02.06	18:00:00	Limasszol	Tsirion Kentro	200	Szlovákia	1	1	
+829	2008.03.26	18:00:00	Zalaegerszeg	ZTE-Aréna	7200	Szlovénia	0	1	
+830	2008.05.24	19:00:00	Budapest	Puskás Ferenc stadion	6000	Görögország	3	2	
+831	2008.05.31	20:30:00	Budapest	Szusza Ferenc stadion	10000	Horvátország	1	1	
+832	2008.08.20	18:00:00	Budapest	Puskás Ferenc stadion	3000	Montenegró	3	3	
+833	2008.09.06	19:45:00	Budapest	Puskás Ferenc stadion	19000	Dánia	0	0	VB-sel-2010
+834	2008.09.10	20:15:00	Stockholm	Rasunda-stadion	30000	Svédország	1	2	VB-sel-2010
+835	2008.10.11	19:45:00	Budapest	Puskás Ferenc stadion	25000	Albánia	2	0	VB-sel-2010
+836	2008.10.15	19:30:00	TaQali	Nazzjonali-stadion	7000	Málta	1	0	VB-sel-2010
+837	2008.11.19	20:45:00	Belfast	Windsor Park	12000	Észak-Írország	2	0	
+838	2009.02.11	18:00:00	Tel-Aviv	Ramat Gan Stadion	9211	Izrael	0	1	
+839	2009.03.28	20:30:00	Tirana	Stadiumi Kombetar	19000	Albánia	1	0	VB-sel-2010
+840	2009.04.01	19:00:00	Budapest	Puskás Ferenc stadion	35800	Málta	3	0	VB-sel-2010
+841	2009.08.12	20:00:00	Budapest	Puskás Ferenc stadion	17800	Románia	0	1	
+842	2009.09.05	20:00:00	Budapest	Puskás Ferenc stadion	42000	Svédország	1	2	VB-sel-2010
+843	2009.09.09	20:45:00	Budapest	Puskás Ferenc stadion	42000	Portugália	0	1	VB-sel-2010
+844	2009.10.10	21:45:00	Lisszabon	Estádio de Luz	50115	Portugália	0	3	VB-sel-2010
+845	2009.10.14	20:45:00	Koppenhága	Parken stadion	39000	Dánia	1	0	VB-sel-2010
+846	2009.11.14	20:45:00	Gent	Jules Otten-stadion	12000	Belgium	0	3	
+847	2010.03.03	19:30:00	Győr	ETO Park	10423	Oroszország	1	1	
+848	2010.05.29	20:00:00	Budapest	Puskás Ferenc stadion	12000	Németország	0	3	
+849	2010.06.05	14:00:00	Amsterdam	ArenA	51000	Hollandia	1	6	
+850	2010.08.11	21:00:00	London	Wembley-stadion	72024	Anglia	1	2	
+851	2010.09.03	20:00:00	Stockholm	Rasunda-stadion	32034	Svédország	0	2	EB-sel-2012
+852	2010.09.07	20:30:00	Budapest	Szusza Ferenc stadion	9902	Moldova	2	1	EB-sel-2012
+853	2010.10.08	19:00:00	Budapest	Puskás Ferenc stadion	10596	San Marino	8	0	EB-sel-2012
+854	2010.10.12	17:30:00	Helsinki	Olimpiai stadion	17000	Finnország	2	1	EB-sel-2012
+855	2010.11.17	18:00:00	Székesfehérvár	Sóstói-stadion	4146	Litvánia	2	0	
+856	2011.02.09	18:00:00	Dubaj	Al-Shabab-stadion	800	Azerbajdzsán	2	0	
+857	2011.03.25	20:30:00	Budapest	Puskás Ferenc stadion	23817	Hollandia	0	4	EB-sel-2012
+858	2011.03.29	20:30:00	Amsterdam	ArenA	51000	Hollandia	3	5	EB-sel-2012
+859	2011.06.03	20:15:00	Luxembourg	Josy Barthel-stadion	1213	Luxemburg	1	0	
+860	2011.06.07	20:30:00	Serravalle	Stadio Olimpico	2000	San Marino	3	0	EB-sel-2012
+861	2011.08.10	19:45:00	Budapest	Puskás Ferenc stadion	11000	Izland	4	0	
+862	2011.09.02	19:45:00	Budapest	Puskás Ferenc stadion	24000	Svédország	2	1	EB-sel-2012
+863	2011.09.06	19:45:00	Chisinau	Zimbru-stadion	11000	Moldova	2	0	EB-sel-2012
+864	2011.10.11	20:00:00	Budapest	Puskás Ferenc stadion	27000	Finnország	0	0	EB-sel-2012
+865	2011.11.11	18:00:00	Budapest	Puskás Ferenc stadion	29000	Liechtenstein	5	0	
+866	2011.11.15	20:30:00	Poznan	Miejski-stadion	8500	Lengyelország	1	2	
+867	2012.02.29	18:00:00	Győr	ETO Park	10000	Bulgária	1	1	
+868	2012.06.01	19:00:00	Prága	Generali Arena	17102	Csehország	2	1	
+869	2012.06.04	20:30:00	Budapest	Puskás Ferenc stadion	17000	Írország	0	0	
+870	2012.08.15	20:30:00	Budapest	Puskás Ferenc stadion	8000	Izrael	1	1	
+871	2012.09.07	20:30:00	Andorra la Vella		1100	Andorra	5	0	VB-sel-2014
+872	2012.09.11	20:30:00	Budapest	Puskás Ferenc stadion	22000	Hollandia	1	4	VB-sel-2014
+873	2012.10.12	20:30:00	Tallin	A. Le Coq Arena	3500	Észtország	1	0	VB-sel-2014
+874	2012.10.16	20:30:00	Budapest	Puskás Ferenc stadion	26000	Törökország	3	1	VB-sel-2014
+875	2012.11.14	20:30:00	Budapest	Puskás Ferenc stadion	15654	Norvégia	0	2	
+876	2013.02.06	17:00:00	Belek	Bellis Center	180	Belorusszia	1	1	
+877	2013.03.22	20:30:00	Budapest	Puskás Ferenc stadion	0	Románia	2	2	VB-sel-2014
+878	2013.03.26	19:30:00	Isztambul	Saracoglu-stadion	43000	Törökország	1	1	VB-sel-2014
+879	2013.06.06	20:30:00	Győr	ETO Park	10000	Kuvait	1	0	
+880	2013.08.14	20:30:00	Budapest	Puskás Ferenc stadion	18000	Csehország	1	1	
+881	2013.09.06	20:00:00	Bukarest	Nemzeti Aréna	41405	Románia	0	3	VB-sel-2014
+882	2013.09.10	20:30:00	Budapest	Puskás Ferenc stadion	7300	Észtország	5	1	VB-sel-2014
+883	2013.10.11	20:30:00	Amszterdam	ArenA	48000	Hollandia	1	8	VB-sel-2014
+884	2013.10.15	20:00:00	Budapest	Puskás Ferenc stadion	1800	Andorra	2	0	VB-sel-2014
+885	2014.03.05	18:00:00	Győr	ETO-Park	13240	Finnország	1	2	
+886	2014.05.22	20:15:00	Debrecen	Új Nagyerdei-stadion	19668	Dánia	2	2	
+887	2014.06.04	20:30:00	Budapest	Puskás Ferenc stadion	4492	Albánia	1	0	
+888	2014.06.07	20:45:00	Budapest	Puskás Ferenc stadion	10413	Kazahsztán	3	0	
+889	2014.09.07	18:00:00	Budapest	Groupama Aréna	20672	Észak-Írország	1	2	EB-sel-2016
+890	2014.10.11	18:00:00	Bukarest	Nemzeti Aréna	45000	Románia	1	1	EB-sel-2016
+891	2014.10.14	20:45:00	Torshavn	Torsvollur	3121	Feröer-szigetek	1	0	EB-sel-2016
+892	2014.11.14	20:45:00	Budapest	Groupama Aréna	19500	Finnország	1	0	EB-sel-2016
+893	2014.11.18	20:30:00	Budapest	Groupama Aréna	5340	Oroszország	1	2	
+894	2015.03.29	20:45:00	Budapest	Groupama Aréna	22700	Görögország	0	0	EB-sel-2016
+895	2015.06.05	18:30:00	Debrecen	Új Nagyerdei-stadion	5218	Litvánia	4	0	
+896	2015.06.13	18:00:00	Helsinki	Olimpiai stadion	20434	Finnország	1	0	EB-sel-2016
+897	2015.09.04	20:45:00	Budapest	Groupama Aréna	22060	Románia	0	0	EB-sel-2016
+898	2015.09.07	20:45:00	Belfast	Windsor park	10774	Észak-Írország	1	1	EB-sel-2016
+899	2015.10.08	18:00:00	Budapest	Groupama Aréna	16165	Feröer-szigetek	2	1	EB-sel-2016
+900	2015.10.11	18:00:00	Pireusz	Karaiskakis-stadion	9000	Görögország	3	4	EB-sel-2016
+901	2015.11.12	20:45:00	Oslo	Ullevaal-stadion	27182	Norvégia	1	0	EB-sel-2016
+902	2015.11.15	20:45:00	Budapest	Groupama Aréna	22186	Norvégia	2	1	EB-sel-2016
+903	2016.03.26	18:00:00	Budapest	Groupama Aréna	20211	Horvátország	1	1	
+904	2016.05.20	18:00:00	Budapest	Groupama Aréna	19886	Elefántcsontpart	0	0	
+905	2016.06.04	18:00:00	Gelsenkirchen	Veltins Aréna	52104	Németország	0	2	
+906	2016.06.14	18:00:00	Bordeaux	Stade Atlantique	34424	Ausztria	2	0	EB-2016
+907	2016.06.18	18:00:00	Marseille	Stade Vélodrome	60842	Izland	1	1	EB-2016
+908	2016.06.22	18:00:00	Lyon	Stade des Lumiéres	55514	Portugália	3	3	EB-2016
+909	2016.06.26	21:00:00	Toulouse	Stadium Municipal	38921	Belgium	0	4	EB-2016

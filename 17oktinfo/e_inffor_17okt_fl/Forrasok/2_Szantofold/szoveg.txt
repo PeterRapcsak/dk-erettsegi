@@ -1,0 +1,6 @@
+﻿Hasznosítás	Jel	Területegység (darab)	Terület (ha)	A 40. sorban a művelésen kívüli terület nyugati széle
+Búza	B			
+Napraforgó	N			
+Kukorica	K			
+Földút	F			
+Művelésen kívül	o			
