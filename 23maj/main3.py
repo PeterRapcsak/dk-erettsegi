@@ -55,16 +55,16 @@ tartotaborok = [d for d in data if tart(d[0], d[1], ho, nap, d[2], d[3])]
 
 print(f"Ekkor éppen {len(tartotaborok)} tábor tart. ")
 
-print("7. feladat ")
-nev = input("Adja meg egy tanuló betűjelét: ")
-toprint = []
+print('7. feladat')
+diak = input("Adja meg egy tanuló betűjelét: ")
+ment = [d for d in data if diak in d[4]]
+ment = sorted(ment, key=itemgetter(0,1))
 
-jelentkezett = [d for d in data if nev in d[4]]
+with open("egytanulo.txt", "w") as f:
+    for m in ment:
+        f.write(f"{m[0]}.{m[1]}-{m[2]}.{m[3]}. {m[5]}\n")
 
-var = sorted(jelentkezett, key=itemgetter(0,1))
-
-for v in var:
-    toprint.append(f"{v[0]}.{v[1]}-{v[2]}.{v[3]}. {v[5]}\n")
-
-with open("egytanulo.txt ", "w") as f:
-    f.writelines(toprint)
+if len(ment) == len(data):
+    print('Elmehet mindegyik táborba. ')
+else: 
+    print('Nem mehet el mindegyik táborba. ')
