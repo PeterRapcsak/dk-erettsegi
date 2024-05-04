@@ -1,8 +1,6 @@
 from datetime import date
 from operator import itemgetter
 
-
-
 with open("forras.txt") as f:
     a = f.read().split()
 
@@ -37,7 +35,9 @@ def sorszam(ho, nap):
     d1 = date(2000, ho, nap)
     d2 = date(2000, 6, 16)
 
-    return f"{d1 - d2}"[0:2]
+    day = d1 - d2
+
+    return day.days
 
 print("6. feladat ")
 ho = int(input("Hó: "))
@@ -56,9 +56,7 @@ tartotaborok = [d for d in data if tart(d[0], d[1], ho, nap, d[2], d[3])]
 print(f"Ekkor éppen {len(tartotaborok)} tábor tart. ")
 
 print("7. feladat ")
-
 nev = input("Adja meg egy tanuló betűjelét: ")
-
 toprint = []
 
 jelentkezett = [d for d in data if nev in d[4]]
@@ -68,12 +66,5 @@ var = sorted(jelentkezett, key=itemgetter(0,1))
 for v in var:
     toprint.append(f"{v[0]}.{v[1]}-{v[2]}.{v[3]}. {v[5]}\n")
 
-
 with open("egytanulo.txt ", "w") as f:
     f.writelines(toprint)
-
-
-
-
-
-
